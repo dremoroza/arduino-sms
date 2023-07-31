@@ -22,8 +22,8 @@ const char* passphrase = "text";
 String st;
 String content;
 
-const char* SMS_FORSENDING_ENDPOINT = "https://nathanielssanrival.000webhostapp.com/show-sms";
-const char* UPDATE_SMS_ENDPOINT = "https://nathanielssanrival.000webhostapp.com/update-sms/";
+const char* SMS_FORSENDING_ENDPOINT = "https://nathanielsansrival.com/show-sms";
+const char* UPDATE_SMS_ENDPOINT = "https://nathanielsansrival.com/update-sms/";
 int HTTP_STATUS_CODE_OK = 0;
  
  
